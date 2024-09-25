@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package wechat;
+
+//定义消息类型
+message WechatRequest{
+  string user_name = 1;
+  string friend_name = 2;
+}
+message WechatReply{
+  string reply = 1;
+}
+
+//定义服务
+service WechatService{
+  rpc AddFriend (WechatRequest) returns (WechatReply);
+  rpc DelFriend (WechatRequest) returns (WechatReply);
+}

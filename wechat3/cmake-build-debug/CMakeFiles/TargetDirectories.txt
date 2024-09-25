@@ -1,0 +1,3 @@
+/home/ecs-user/cpp-project/wechat3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ecs-user/cpp-project/wechat3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ecs-user/cpp-project/wechat3/cmake-build-debug/CMakeFiles/wechat3.dir

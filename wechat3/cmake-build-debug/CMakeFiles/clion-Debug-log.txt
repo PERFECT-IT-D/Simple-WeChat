@@ -1,0 +1,4 @@
+/bin/cmake3 -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/bin/make -DCMAKE_CXX_COMPILER=/opt/rh/devtoolset-9/root/bin/g++ -G "CodeBlocks - Unix Makefiles" -S /home/ecs-user/cpp-project/wechat3 -B /home/ecs-user/cpp-project/wechat3/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ecs-user/cpp-project/wechat3/cmake-build-debug
